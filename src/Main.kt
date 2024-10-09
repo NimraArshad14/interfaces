@@ -1,7 +1,7 @@
 fun main() {
 //public visibility modifier
     val cat = Cat(
-        name = ""
+        name = "name"
     )
     cat.name
 
